@@ -1,0 +1,15 @@
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\bin\Debug\net6.0\CRU_FUNCTION.exe
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\bin\Debug\net6.0\CRU_FUNCTION.deps.json
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\bin\Debug\net6.0\CRU_FUNCTION.runtimeconfig.json
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\bin\Debug\net6.0\CRU_FUNCTION.dll
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\bin\Debug\net6.0\CRU_FUNCTION.pdb
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\CRU_FUNCTION.csproj.AssemblyReference.cache
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\CRU_FUNCTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\CRU_FUNCTION.AssemblyInfoInputs.cache
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\CRU_FUNCTION.AssemblyInfo.cs
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\CRU_FUNCTION.csproj.CoreCompileInputs.cache
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\CRU_FUNCTION.dll
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\refint\CRU_FUNCTION.dll
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\CRU_FUNCTION.pdb
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\CRU_FUNCTION.genruntimeconfig.cache
+D:\Nicholas\Curso C#\CRU_FUNCTION\CRU_FUNCTION\obj\Debug\net6.0\ref\CRU_FUNCTION.dll
